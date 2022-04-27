@@ -1,2 +1,3 @@
-# beecrowd
+# beecrowd 🐝
+Resolução dos exercícios 
  
