@@ -7,7 +7,7 @@ const sum = numbers.reduce(
     0
 );
 
-console.log('X = ', sum);
+console.log('X =', sum);
 
 // O que foi aceito
 console.log(`X = ${parseInt(numbers[0]) + parseInt(numbers[1])}`);
